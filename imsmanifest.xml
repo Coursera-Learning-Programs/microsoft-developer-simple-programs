@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6NXTNg7VyGn" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Writing Simple Programs in C#</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Writing_Simple_Programs_in_C#_ORG">
+    <organization identifier="Writing_Simple_Programs_in_C#_ORG">
+      <title>Writing Simple Programs in C#</title>
+      <item identifier="Protecting_a_device_with_Malwarebytes_SCO" isvisible="true" identifierref="__6NXTNg7VyGn_RES">
+        <title>Writing Simple Programs in C#</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6NXTNg7VyGn_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C1O6MoB7Lr.png" />
+      <file href="mobile/6ABHV9lFPqI.jpg" />
+      <file href="mobile/6C26yDAVEj2.jpg" />
+      <file href="mobile/67xGLM7KRMz.jpg" />
+      <file href="mobile/5VsSZzbAWgS.jpg" />
+      <file href="mobile/6fmv9MwK1Xl.jpg" />
+      <file href="mobile/6D2hGkZOG0F.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eHnr1Bm0ZZ.js" />
+      <file href="html5/data/js/5mXWgIW55LX.js" />
+      <file href="html5/data/js/5ngKgA2JbLK.js" />
+      <file href="html5/data/js/5tJBZBDlKoH.js" />
+      <file href="html5/data/js/5uPKw31Aa9W.js" />
+      <file href="html5/data/js/5ZUkyLx9JBV.js" />
+      <file href="html5/data/js/67zccqfuSlJ.js" />
+      <file href="html5/data/js/683QtQU93Tp.js" />
+      <file href="html5/data/js/69B166k5l1f.js" />
+      <file href="html5/data/js/6BuN3KMlRFr.js" />
+      <file href="html5/data/js/6GbtgDm8iIb.js" />
+      <file href="html5/data/js/6hTFdH34GfI.js" />
+      <file href="html5/data/js/6iCUpz7C9Lb.js" />
+      <file href="html5/data/js/6jnePCj0x9e.js" />
+      <file href="html5/data/js/6jsL9SarHyN.js" />
+      <file href="html5/data/js/6k3cc8x19EA.js" />
+      <file href="html5/data/js/6OEi24xS5S5.js" />
+      <file href="html5/data/js/6SmcwrygvIl.js" />
+      <file href="html5/data/js/6VCWysZLisw.js" />
+      <file href="html5/data/js/6WbNFooQ39a.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
